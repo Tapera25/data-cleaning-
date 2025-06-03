@@ -1,0 +1,10 @@
+id,name,age,gender,department,annual_income,income_rank,row_id
+4,Dana,45,Female,It,58000,3,1
+11,Jack,43,Male,Hr,NA,NA,2
+8,Grace,37,Female,It,57000,4,3
+2,Bob,34,Male,Finance,60000,2,4
+12,Kara,31,Female,Finance,63000,1,5
+7,Frank,29,Male,Na,NA,NA,6
+13,Leo,28,Male,It,54000,5,7
+1,Alice,25,Female,Hr,50000,7,8
+10,Ivy,22,Female,Hr,51000,6,9
